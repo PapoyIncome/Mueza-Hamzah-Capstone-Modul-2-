@@ -75,3 +75,5 @@ tapOutTime: Waktu tap out, termasuk tanggal dan waktu.
 payAmount: Jumlah pembayaran yang dilakukan oleh pelanggan, yang bisa jadi beberapa transaksi gratis dan beberapa yang berbayar.
 
 [Tableau](https://public.tableau.com/app/profile/reza.hamzah/viz/CapstoneModul2TJ/Story1)
+
+[Capstone Project Modul 2 TJ](https://github.com/PapoyIncome/Mueza-Hamzah-Capstone-Modul-2-/blob/main/Transjakarta.csv)
